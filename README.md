@@ -34,7 +34,7 @@ python face_recogni.py
 ## Files
 
 - `face_recogni.py` - Main script for face recognition.
-- `reference.jpg` - Reference image for face comparison.
+- `test.jpg` - Reference image for face comparison.
 
 ## Notes
 
